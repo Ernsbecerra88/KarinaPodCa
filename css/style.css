@@ -13,6 +13,9 @@ body {
   background: #000;
   color: #fff; }
 
+  .contain {
+    margin-left: 45%;
+  }
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
