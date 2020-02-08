@@ -12,10 +12,16 @@ body {
 ::selection {
   background: #000;
   color: #fff; }
-
+/*container around the follow me tittle and links*/
   .contain {
-    margin-left: 45%;
+    margin-left: 35%;
   }
+/*aboout picture*/
+  #aboutpic {
+height: auto;
+width: auto;
+  }
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
